@@ -1,9 +1,0 @@
-version: '3.9'
-
-services:
-  pumpfun-bot:
-    build: .
-    container_name: pumpfun-bot
-    restart: always
-    env_file:
-      - .env
