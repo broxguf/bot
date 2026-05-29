@@ -10,11 +10,11 @@
 # ============================================================
 
 # ------ Telegram ------
-BOT_TOKEN = ""        # Токен бота от @BotFather
-CHAT_ID   = ""        # ID чата или канала (например: -1001234567890)
+BOT_TOKEN = "8908961639:AAH4gCXseoNWTt6mgy3pHOHLsRKfP4B47As"        # Токен бота от @BotFather
+CHAT_ID   = "1053779672"        # ID чата или канала (например: -1001234567890)
 
 # ------ Helius API ------
-HELIUS_API_KEY = ""   # Ключ с helius.dev (нужен для Solana RPC)
+HELIUS_API_KEY = "e0998240-083d-4b32-90cd-ba6395912703"   # Ключ с helius.dev (нужен для Solana RPC)
 
 # ------ Фильтры токенов ------
 PRICE_PUMP_PERCENT = 25   # Минимальный рост цены за 24 часа (%)
